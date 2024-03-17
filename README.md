@@ -7,7 +7,8 @@ Repository for "Years of endurance exercise training favorably remodels abdomina
 #Global proteomics
   - Any proteins that has more than one NA were filtered out.
   - Overrepresentation pathway analysis was completed through Database for Annotation, Visualization and Integrated Discovery (DAVID).
-  - Rank based pathway analysis was completed through STRING databases. 
+  - Rank based pathway analysis was completed through Search Tool for the Retrieval of Interacting Genes/Proteins (STRING).
+ 
 
 #Phosphoproteomics
   - Phosphopeptides were pre-processed for median-based normalization and imputation.
