@@ -1,5 +1,5 @@
 # Comparing-Adipose-Tissue
-Repository for "Years of endurance exercise training favorably remodels abdominal subcutaneous adipose tissue in adults with overweight/obesity"
+Repository for "Years of endurance exercise training remodels abdominal subcutaneous adipose tissue in adults with overweight/obesity"
 
 #This repository contains global proteomics and phosphoproteomics data for following article:
 "Years of endurance exercise training favorably remodels abdominal subcutaneous adipose tissue in adults with overweight/obesity"
